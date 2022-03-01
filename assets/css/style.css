@@ -1,0 +1,47 @@
+header h1{
+    text-align: center;;
+}
+
+.student-info {
+    text-align: center;
+}
+
+.student-info h2{
+    width: 100%;
+    margin: 25px auto;
+    background-color: darkolivegreen;
+    color: white;
+}
+.student-info img{
+    object-fit: cover;
+    height: 400px;
+    width: 400px;
+    display: inline-block;;
+    margin: 0 auto;
+    border: black solid 3px;
+    background-color: darkolivegreen;
+}
+
+.contact-info{
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    color: white
+}
+
+.contact-info a{
+    text-decoration: none;
+    color:white
+}
+
+.contact-info address{
+    background-color: darkolivegreen;
+}
+.contact-info address ul{
+    font-weight: normal;
+    list-style-type: none;
+}
+
+.contact-info address span{
+    font-weight:bold;
+}
